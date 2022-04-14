@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyStroganoff and I'm from Russia, Tver.
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in JAVA
+
 
 
 <!---
