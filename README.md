@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
- A 🏄 software developer from <a href="https://www.google.com/search?q=chicago+map&rlz=1C1GCEA_enUS1043US1043&oq=chicago+map&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDc1NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8">Chicago, USA</a>
+ A 🏄 software developer from <a href="https://www.google.com/search?q=chicago+map&rlz=1C1GCEA_enUS1043US1043&oq=chicago+map&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDc1NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8">Bloomington, USA</a>
 </p>
 <p align="center">
-🔭 I’m currently working on project <a href="https://github.com/SergeyStroganoff/Warehouse"> Warehouse </a>
+🔭 I’m currently working on the project - Reunit.me e </a>
 </p>
 <p align="center">
   <a href="mailto:111sergey90@gmail.com">
